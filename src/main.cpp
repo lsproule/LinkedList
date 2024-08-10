@@ -1,4 +1,3 @@
-// main.cpp
 #include <list.hpp>
 
 int main() {
